@@ -1,6 +1,7 @@
 <h1 align="center">Игра в Змейку</h1> 
 
-![snapedit_1722762985783](https://github.com/user-attachments/assets/b1ca7296-5133-42c1-8d8e-653866bb9525)
+![snapedit_1722762985783](https://github.com/user-attachments/assets/11f86a18-2cc3-4206-a399-857e1307cc31)
+
 
 ## Обзор
 Это простая реализация классической игры в змейку на Python с использованием библиотеки Pygame. 
