@@ -1,5 +1,9 @@
 <h1 align="center">The Snake Game </h1>
 
+![snapedit_1722762985783](https://github.com/user-attachments/assets/e74b6c56-c576-49cc-9d44-f57351f81805)
+
+
+
 ## Review
 This is a simple implementation of the classic Python snake game using the Pygame library. 
 My choice fell on the classic snake, because the mechanics of the game itself are not very complicated - the player controls a snake that tries to eat different fruits to grow, simultaneously avoiding collisions with walls or with himself. 
