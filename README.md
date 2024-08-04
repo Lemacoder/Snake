@@ -1,6 +1,7 @@
 <h1 align="center">The Snake Game </h1>
 
-![snapedit_1722762985783](https://github.com/user-attachments/assets/e74b6c56-c576-49cc-9d44-f57351f81805)
+![snapedit_1722762985783](https://github.com/user-attachments/assets/4197ac1e-2178-4591-8946-ee9090abe2ed)
+
 
 ## Review
 This is a simple implementation of the classic Python snake game using the Pygame library. 
